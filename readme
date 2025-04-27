@@ -1,0 +1,8 @@
+Deixei algumas configurações de redes de filas prontas.
+Pra alterar entre elas é só descomentar/comentar as configs na __main__
+Se for usar uma das prontas, tem descomentar a 221 tb
+
+No inicio da main tem para fazer de forma manual a redes
+Por padrao deixei a rede requerida no T1
+
+Depois é só executar o simulador.
